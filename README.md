@@ -46,3 +46,5 @@ python main.py --question2="Running Question 2"
 python main.py --help
 ## Output
 The code generates various output files, including Excel files (en-xx.xlsx), partitioned JSONL files, and a JSON file containing translations (all_translations.json).
+## Licence 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. 
