@@ -3,7 +3,7 @@
 ## Overview
 This Python project is designed to process and manage data from the MASSIVE Dataset. It includes scripts and functions to perform various tasks related to data processing, such as generating Excel files, partitioning datasets, and generating translations.
 
-##Project Structure
+## Project Structure
 The project is organized into several Python scripts and a constants file. Here's an overview of the project structure:
 
 question1.py: Contains code related to Question 1, which involves generating en-xx .xlsx files for different languages using English as a pivot language.
